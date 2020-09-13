@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="dummy">dummy</string>
+    <string name="year">Año de fundación:</string>
+</resources>
